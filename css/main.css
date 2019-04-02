@@ -25,6 +25,7 @@ html {
 .nav a {
   color: #fff;
   text-decoration: none;
+  outline-color: inherit;
 }
 
 .nav a span {
